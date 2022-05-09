@@ -1,0 +1,92 @@
+.headerbackground {
+    background-image: url("./Assets/151748881526.jpg" );
+
+}
+
+.section{
+    background-color: white;
+    flex-direction: row;
+}
+
+.article{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    width: 1000px;
+}
+
+.div{
+    background-color: white;
+    margin:50px;
+    width: auto;
+    border-right: 3px black;
+ 
+    
+}
+
+.div-Two{
+    background-color: white;
+    margin: 50px;
+    width: auto;
+   
+
+}
+
+.paragraph{
+    padding: 40px;
+    
+}
+
+.imageContainer{
+display: flex;
+flex-direction: column;
+}
+
+.imgRow{
+    flex-direction: row;
+    display: flex;
+    list-style-type: none;
+    justify-content: flex-start;
+    align-content: flex-start;
+   
+  }
+
+.column {
+    
+    float: left;
+    padding: 20px;
+
+}
+
+.row{
+  flex-direction: row;
+  display: flex;
+  list-style-type: none;
+  justify-content: flex-end;
+  align-content: flex-start;
+ 
+}
+
+.padding-ten{
+    padding:10px;
+
+}
+
+.padding-twenty{
+    padding: 20px;
+}
+
+.heroimg{
+    width: 320px;
+    height: 320pxim;
+}
+.imgsolo{
+    width: 800px;
+    height: 400px;
+
+}
+
+.imgtwo{
+    width: 400px; 
+    height: 200px;
+}
